@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Firulais",
+    "tipo": "Perro",
+    "estado": "Perdido",
+    "descripcion": "Se perdió cerca al parque central."
+  },
+  {
+    "id": 2,
+    "nombre": "Michi",
+    "tipo": "Gato",
+    "estado": "Adopción",
+    "descripcion": "Busca hogar amoroso y seguro."
+  },
+  {
+    "id": 3,
+    "nombre": "Max",
+    "tipo": "Perro",
+    "estado": "Encontrado",
+    "descripcion": "Encontrado vagando por la avenida principal."
+  },
+  {
+    "id": 4,
+    "nombre": "chandusio",
+    "tipo": "Mascota",
+    "estado": "Adopción",
+    "descripcion": "busca un hogar lleno de amor"
+  },
+  {
+    "id": 5,
+    "nombre": "bruno",
+    "tipo": "Mascota",
+    "estado": "Perdido",
+    "descripcion": "se perdio por el oriente, cualquier cosa escribir a taltaltaltaltaltal",
+    "autor": "jhoan rodriguez"
+  }
+]
